@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
 <h3 align="center">A fullStack developer</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [github.com/clement0910](github.com/clement0910)
 
