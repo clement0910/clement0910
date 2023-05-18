@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
-<h3 align="center">Back-end Developer @ [Hosman](https://www.hosman.co)</h3>
+<h3 align="center">Back-end Developer @ Hosman</h3>
 
 - 🔭 I’m currently working on [Ryze](https://github.com/clement0910/Ryze)
 
